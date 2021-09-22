@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{FEFECF7E-7CF9-B41D-193F-2EFF0E2C0D3F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DragSelector.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GhostTile.cs" Line="24" Column="6" />
+      <File FileName="Assets/Scripts/FloorBuilder.cs" Line="32" Column="51" />
+      <File FileName="Assets/Scripts/TileScript.cs" Line="63" Column="9" />
+      <File FileName="Assets/Scripts/TileSpawn.cs" Line="20" Column="33" />
+      <File FileName="Assets/Scripts/PlayerMove.cs" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" />
+      <File FileName="Assets/Scripts/DragSelector.cs" Line="18" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PersonalProject1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="DragSelector.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cc4ddd2e-18dc-42f0-97a7-6c9e9f5e3e0c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
